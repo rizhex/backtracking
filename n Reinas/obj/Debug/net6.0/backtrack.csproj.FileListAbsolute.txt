@@ -1,0 +1,30 @@
+/home/rizhe/Documentos/projects/backtrack/bin/Debug/net6.0/backtrack
+/home/rizhe/Documentos/projects/backtrack/bin/Debug/net6.0/backtrack.deps.json
+/home/rizhe/Documentos/projects/backtrack/bin/Debug/net6.0/backtrack.runtimeconfig.json
+/home/rizhe/Documentos/projects/backtrack/bin/Debug/net6.0/backtrack.dll
+/home/rizhe/Documentos/projects/backtrack/bin/Debug/net6.0/backtrack.pdb
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/backtrack.csproj.AssemblyReference.cache
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/backtrack.GeneratedMSBuildEditorConfig.editorconfig
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/backtrack.AssemblyInfoInputs.cache
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/backtrack.AssemblyInfo.cs
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/backtrack.csproj.CoreCompileInputs.cache
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/backtrack.dll
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/refint/backtrack.dll
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/backtrack.pdb
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/backtrack.genruntimeconfig.cache
+/home/rizhe/Documentos/projects/backtrack/obj/Debug/net6.0/ref/backtrack.dll
+/home/rizhe/Documentos/projects/backtrack/n Reinas/bin/Debug/net6.0/backtrack
+/home/rizhe/Documentos/projects/backtrack/n Reinas/bin/Debug/net6.0/backtrack.deps.json
+/home/rizhe/Documentos/projects/backtrack/n Reinas/bin/Debug/net6.0/backtrack.runtimeconfig.json
+/home/rizhe/Documentos/projects/backtrack/n Reinas/bin/Debug/net6.0/backtrack.dll
+/home/rizhe/Documentos/projects/backtrack/n Reinas/bin/Debug/net6.0/backtrack.pdb
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/backtrack.csproj.AssemblyReference.cache
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/backtrack.GeneratedMSBuildEditorConfig.editorconfig
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/backtrack.AssemblyInfoInputs.cache
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/backtrack.AssemblyInfo.cs
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/backtrack.csproj.CoreCompileInputs.cache
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/backtrack.dll
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/refint/backtrack.dll
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/backtrack.pdb
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/backtrack.genruntimeconfig.cache
+/home/rizhe/Documentos/projects/backtrack/n Reinas/obj/Debug/net6.0/ref/backtrack.dll
