@@ -1,0 +1,15 @@
+/home/rizhe/Documentos/projects/backtracking/SubSet/bin/Debug/net6.0/SubSet
+/home/rizhe/Documentos/projects/backtracking/SubSet/bin/Debug/net6.0/SubSet.deps.json
+/home/rizhe/Documentos/projects/backtracking/SubSet/bin/Debug/net6.0/SubSet.runtimeconfig.json
+/home/rizhe/Documentos/projects/backtracking/SubSet/bin/Debug/net6.0/SubSet.dll
+/home/rizhe/Documentos/projects/backtracking/SubSet/bin/Debug/net6.0/SubSet.pdb
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/SubSet.csproj.AssemblyReference.cache
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/SubSet.GeneratedMSBuildEditorConfig.editorconfig
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/SubSet.AssemblyInfoInputs.cache
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/SubSet.AssemblyInfo.cs
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/SubSet.csproj.CoreCompileInputs.cache
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/SubSet.dll
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/refint/SubSet.dll
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/SubSet.pdb
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/SubSet.genruntimeconfig.cache
+/home/rizhe/Documentos/projects/backtracking/SubSet/obj/Debug/net6.0/ref/SubSet.dll
