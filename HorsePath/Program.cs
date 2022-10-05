@@ -26,8 +26,6 @@ static void PrintTable(int[,] table, int n){
 
 }
 
-
-
 static void MoveHorse(int[,] table, int n, int pos0, int pos1, int counter){
     int m = (int)Math.Pow(n, 2);
     int i;
